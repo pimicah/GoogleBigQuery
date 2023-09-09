@@ -1,0 +1,18 @@
+In SQL
+
+SELECT
+  CAST(starttime AS date) AS date,
+  start_station_name,
+  COUNT(*) AS num_trips,
+  COUNT(DISTINCT bikeid) AS num_bikes,
+  ROUND(SUM(tripduration/60),2) AS total_trip_duration_minutes
+FROM
+  `bigquery-public-data.new_york.citibike_trips`
+GROUP BY
+  date,
+  start_station_name
+ORDER BY
+  date
+
+In Looker Studio
+https://lookerstudio.google.com/u/0/reporting/e07873e2-a43b-4390-b0f6-2ccf29e42b96/page/QjbYD
