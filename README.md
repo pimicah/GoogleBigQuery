@@ -10,3 +10,8 @@ With a sudden boom in alternative quick and easy transportation taking off in th
 By visualizing statistical data, more effective business decisions can be made through transparency of information.  Decisions about expansion can be made by identifying the most popular bikes, collecting user information, and popular start locations.
 
 ## 2.0 Business Assumptions
+The strategy to have greater transparency on Citi Bike hotspots and needs can help Citi Bike efficiently grow.
+
+## 3.0 Solution Strategy
+My solution to solve this problem will be the development of a data science project.  This project will have a variety of interactive data delivery devices.  
+Step 01. Data Description: In this first section data provided by Google Big Qery will be aggregated and studied  
