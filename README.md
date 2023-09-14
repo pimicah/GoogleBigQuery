@@ -20,3 +20,8 @@ In this first section data provided by Google Big Query will be aggregated and s
 In this section, a mind map will be created to assist the creation of the hypothesis and the creation of new features. These assumptions will help in exploratory data analysis and may improve the model scores.
 ### Step 03. Data Filtering: 
 The following will be aggregated into columns within the table: date will be the converted start time, the number of trips will be the total number of trips for the date, the toal duration minutes will be the total sum of all the trip durations converted to minutes and rounded to two decimals place, and lastly the number of bikes will be the distinct count of bikes used for the date.
+### Step 04. Feature Selection:
+Three more aggregates will be prepared prior to construction of the visualization, all with a date dimension.  
+### Step 05. Conclusion:
+
+### Step 06. Model Deploy:
