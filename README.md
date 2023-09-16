@@ -24,4 +24,8 @@ The following will be aggregated into columns within the table: date will be the
 Three more aggregates will be prepared prior to construction of the visualization, all with a date dimension.  
 ### Step 05. Conclusion:
 This is a conclusion stage which the generation capacity model is tested using unseen data. In addition, some business questions are answered to show the applicability of the model in the business context.
-###
+![Screenshot 2023-09-16 at 1 35 05 PM](https://github.com/pimicah/Micah-Citi-Bike-Dashboard/assets/144563378/534000f0-988f-487b-a7cc-cdd85f32de6e)
+
+## 4.0 Top 3 Data Insights
+- #### When comparing the average bike trip duration, subscribers have shorter bike trips than subscribers. 
+![Screenshot 2023-09-16 at 1 35 24 PM](https://github.com/pimicah/Micah-Citi-Bike-Dashboard/assets/144563378/5e12db5c-0d78-48f2-b653-d3e75bb1e83f)
