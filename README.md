@@ -23,5 +23,5 @@ The following will be aggregated into columns within the table: date will be the
 ### Step 04. Feature Selection:
 Three more aggregates will be prepared prior to construction of the visualization, all with a date dimension.  
 ### Step 05. Conclusion:
-
-### Step 06. Model Deploy:
+This is a conclusion stage which the generation capacity model is tested using unseen data. In addition, some business questions are answered to show the applicability of the model in the business context.
+###
