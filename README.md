@@ -30,6 +30,17 @@ This is a conclusion stage which the generation capacity model is tested using u
 - #### When comparing the average bike trip duration, subscribers have shorter bike trips than subscribers. In all of 2015, the female customers duration is nearly 2/3 double the subscribers and for males nearly 20% more.  There are numerous explanations, one could be that the customers are tourists and site seeing on bikes rather than going straight to their destination 
 ![Screenshot 2023-09-16 at 1 35 24 PM](https://github.com/pimicah/Micah-Citi-Bike-Dashboard/assets/144563378/5e12db5c-0d78-48f2-b653-d3e75bb1e83f)
 - #### The top three most used start sites are located in Manhattan.  Unsurpisingly the hotspots are located in very populated areas. Vanderbilt Ave & E 42nd St located near the Empire State Building and Bryant park, 8 Av/W 31 St next to Madison Square Garden, and Mobile 1 near the Financial district.
-- ![Screenshot 2023-09-16 at 2 01 54 PM](https://github.com/pimicah/Micah-Citi-Bike-Dashboard/assets/144563378/7b3d9849-d4eb-46b0-90c2-1846fdf885b5)
+ ![Screenshot 2023-09-16 at 2 01 54 PM](https://github.com/pimicah/Micah-Citi-Bike-Dashboard/assets/144563378/7b3d9849-d4eb-46b0-90c2-1846fdf885b5)
 
 ## 5.0 Business Results
+The results provide Citi Bike with insight into how they can further expand their business and customer usage based on the user demographic.  Having this information can help them pinpoint and predict new stations that would allow for more customers. 
+
+## 6.0 Conclusion
+Citi Bike can see that the most users are based out of Manhattan.  Female customers have the longest bike durations thus spending more money.
+
+## 7.0 Lessons Learned
+- Aggregating and sorting data using SQL
+- Using different modes of visualization to communicate data effectively
+- Trial and error is necessary for discovering new lessons.
+
+
